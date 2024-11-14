@@ -1,4 +1,4 @@
-![Meow, My Personal Assistant ! ](meow.png)
+![Meow, My Personal Assistant ! ](.image/meow.png)
 
 
 # Usage 
