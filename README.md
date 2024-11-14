@@ -18,4 +18,5 @@ export GEMINI_API_KEY="<your_key>"
 ## Third step : install gemini package 
 ```
 pip install google-generativeai
+pip install rich # rich allows pretty output :-)
 ```
